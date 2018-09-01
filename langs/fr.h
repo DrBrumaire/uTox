@@ -14,13 +14,13 @@ msgstr("FRENCH")
 msgid(SPLASH_TITLE)
 msgstr("Bienvenue sur le nouveau uTox !")
 
-//msgid(SPLASH_TEXT)
-//msgstr("You have just upgraded to version 0.9.5! Release name: Srsly")
+msgid(SPLASH_TEXT)
+msgstr("Vous venez d'acquérir la version 0.9.5 de uTox ! Son nom de diffusion est Srsly")
 
-//msgid(CHANGE_LOG_TITLE)
-//msgstr("Changes in v0.9.5")
+msgid(CHANGE_LOG_TITLE)
+msgstr("Nouveautés et changements de la v0.9.5")
 
-//msgid(CHANGE_LOG_TEXT)
+msgid(CHANGE_LOG_TEXT)
 //msgstr(<Changelog in English>)
 
 /******************************************************************************
